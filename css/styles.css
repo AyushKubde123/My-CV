@@ -1,0 +1,42 @@
+body {
+  background-color: #EEEEEE;
+}
+
+.profile {
+  width: 250px;
+}
+
+h1 {
+ color: #325288;
+ font-size: 60px;
+ font-style: italic;
+}
+
+.p1 {
+  font-size: 20px;
+}
+
+.p2 {
+  color: grey;
+}
+
+h2 {
+  color: #506D84;
+  font-size: 30px;
+}
+
+.t1 {
+  color: #64C9CF;
+}
+
+.t2 {
+ width: 30%;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
